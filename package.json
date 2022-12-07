@@ -34,7 +34,7 @@
     "babel-polyfill": "^6.26.0",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "lint-staged": "^8.1.5",
+    "lint-staged": "^13.1.0",
     "nodemon": "^1.19.0",
     "path": "^0.12.7",
     "stylus": "^0.54.5",
